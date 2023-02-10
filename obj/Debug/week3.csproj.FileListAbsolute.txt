@@ -1,0 +1,8 @@
+C:\Users\fscar\source\repos\week3\bin\Debug\week3.exe.config
+C:\Users\fscar\source\repos\week3\bin\Debug\week3.exe
+C:\Users\fscar\source\repos\week3\bin\Debug\week3.pdb
+C:\Users\fscar\source\repos\week3\obj\Debug\week3.csproj.AssemblyReference.cache
+C:\Users\fscar\source\repos\week3\obj\Debug\week3.csproj.SuggestedBindingRedirects.cache
+C:\Users\fscar\source\repos\week3\obj\Debug\week3.csproj.CoreCompileInputs.cache
+C:\Users\fscar\source\repos\week3\obj\Debug\week3.exe
+C:\Users\fscar\source\repos\week3\obj\Debug\week3.pdb
